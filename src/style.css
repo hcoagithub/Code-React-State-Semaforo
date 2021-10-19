@@ -1,0 +1,54 @@
+.poste {
+    width: 30px;
+    height: 80px;
+    background-color: black;
+   margin:auto;
+}
+
+.container{
+    width: 200px;
+    height: 515px;
+    background-color: black;
+    margin:auto;
+    border-radius: 15px;
+padding-top: 20px;
+
+
+}
+
+.rojo {
+    
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.amarillo {
+   
+    width: 150px;
+    height: 150px;
+    background-color:yellow;
+    border-radius:80%;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.verde {
+   
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border-radius: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.brillo {
+    box-shadow: 0px 0px 30px 30px rgba(212, 211, 211, 0.4);
+}
